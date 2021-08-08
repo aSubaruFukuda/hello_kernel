@@ -2,7 +2,7 @@
 #include <linux/kernel.h>
 
 MODULE_DESCRIPTION("HELLO KERNEL");
-MODULE_AUTHOR("subaruf");
+MODULE_AUTHOR("subaroon");
 MODULE_LICENSE("GPL");
 
 static char *whom = "name";
